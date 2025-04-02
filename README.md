@@ -38,9 +38,4 @@ This project analyzes Airbnb listing data to explore trends in pricing, room typ
 ## Conclusion:
 This analysis provides insights into Airbnb listing patterns, helping both hosts and guests understand the market better. Future work could include deeper time-series analysis, sentiment analysis of reviews, and predictive modeling of pricing trends.
 
----
-### Author:
-- [Your Name]
-- [Your Contact Information]
-- [Project Repository (if available)]
 
